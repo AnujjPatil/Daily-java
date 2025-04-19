@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayReverse",
+            "request": "launch",
+            "mainClass": "ARRAY.ArrayReverse",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Arrayduplicate",
+            "request": "launch",
+            "mainClass": "ARRAY.Arrayduplicate",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Arraymax",
+            "request": "launch",
+            "mainClass": "ARRAY.Arraymax",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Arrayrotate",
+            "request": "launch",
+            "mainClass": "ARRAY.Arrayrotate",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Arraysearch",
+            "request": "launch",
+            "mainClass": "ARRAY.Arraysearch",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "LargestArray",
+            "request": "launch",
+            "mainClass": "ARRAY.LargestArray",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Secondlargest",
+            "request": "launch",
+            "mainClass": "ARRAY.Secondlargest",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Zerotoend",
+            "request": "launch",
+            "mainClass": "ARRAY.Zerotoend",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "All",
+            "request": "launch",
+            "mainClass": "All",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Arraycount",
+            "request": "launch",
+            "mainClass": "Arraycount",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Balloon",
+            "request": "launch",
+            "mainClass": "Balloon",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Ceiling",
+            "request": "launch",
+            "mainClass": "Ceiling",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Count",
+            "request": "launch",
+            "mainClass": "Count",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Binarysearch",
+            "request": "launch",
+            "mainClass": "DSA.Binarysearch",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Bubblesort",
+            "request": "launch",
+            "mainClass": "DSA.Bubblesort",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Linearsearch",
+            "request": "launch",
+            "mainClass": "DSA.Linearsearch",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateString",
+            "request": "launch",
+            "mainClass": "DuplicateString",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Largest",
+            "request": "launch",
+            "mainClass": "Largest",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Patternone",
+            "request": "launch",
+            "mainClass": "Patternone",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Prefix",
+            "request": "launch",
+            "mainClass": "Prefix",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Reversenumber",
+            "request": "launch",
+            "mainClass": "Reversenumber",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Selectionsort",
+            "request": "launch",
+            "mainClass": "Selectionsort",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Simplecount",
+            "request": "launch",
+            "mainClass": "Simplecount",
+            "projectName": "java_22f9f1ea"
+        },
+        {
+            "type": "java",
+            "name": "Valid",
+            "request": "launch",
+            "mainClass": "Valid",
+            "projectName": "java_22f9f1ea"
+        }
+    ]
+}
