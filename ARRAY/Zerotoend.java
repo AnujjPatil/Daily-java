@@ -1,6 +1,6 @@
 //time complxity O(n)
 
-package ARRAY;
+
 import java.util.Scanner;
 
 import java.util.Arrays;

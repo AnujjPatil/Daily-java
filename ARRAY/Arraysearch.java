@@ -1,4 +1,3 @@
-package ARRAY;
 
 //program to search an element in an array
 

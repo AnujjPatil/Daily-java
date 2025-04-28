@@ -5,7 +5,6 @@
 
 // Inner Loop (j):
 // For every i, j runs from i + 1 to n - 1.
-package ARRAY;
 import java.util.Scanner;
 
 public class Arrayduplicate {
@@ -20,7 +19,7 @@ System.out.println("ENTER THE SIZE OF ARRAY");
             arr[i]=sc.nextInt();
         }
 
-
+//for every i means if i=0 it will check from j=1 to n 
         for(int i=0; i<n; i++){
             for(int j=i+1; j<n; j++){
                   if(arr[i]==arr[j]){

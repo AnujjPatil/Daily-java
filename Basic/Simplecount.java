@@ -12,7 +12,7 @@ public class Simplecount{
     public static int count(int n){
         int count=0;
     while(n>0){
-    count = count +1;//whenever we remove a digit  increment count
+    count = count +1;//whenever we remove a  digit  increment count
     n =n/10;
     }
     return count;
