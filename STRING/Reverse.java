@@ -18,7 +18,7 @@ public class Reverse {
     }
 
 
-     static String reverse (String str){
+     static String reverse(String str){
        
         int start=0;
         int end=str.length()-1;
